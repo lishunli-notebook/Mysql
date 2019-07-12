@@ -1,1 +1,1 @@
-
+PATH="$PATH":/usr/local/mysql/bin mysql -uroot -pPASSWORD
